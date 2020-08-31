@@ -36,7 +36,7 @@
 
 
 ### Command for starting script
-> python3 main.py -p <PATH> -ph <PHONE>  -d <DB_LOG>  -s <STAGE>
+> python3 main.py -p "PATH" -ph "PHONE"  -d "DB_LOG"  -s "STAGE"
 
 
 ### Arguments
