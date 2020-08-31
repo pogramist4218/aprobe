@@ -47,7 +47,7 @@
 
 * -ph, --phone
 > description: value for phone value  
-> values:      string in format {XXXXXXXXXX}
+> values:      string in format {XXXXXXXXXX}   
 > valid:       required
 
 * -d, --database
